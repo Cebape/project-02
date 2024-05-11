@@ -1,0 +1,7 @@
+LOG FILE
+========
+
+- Revereted...
+- title changed, devops figure included and updated log file
+- Original Web Page structured
+- original page construction
