@@ -1,0 +1,22 @@
+  h1 {
+    text-align: center;
+    font-family: verdana;
+    color: blue;
+  }
+  h3 {
+    text-align: center;
+    font-family: verdana;
+    color: gray;
+  }
+  p {
+    text-align: center;
+    font-family: verdana;
+    font-size: 15;
+    color: gray;
+  }
+  div {
+    text-align: center;
+    font-family: verdana;
+    font-size: 15;
+    color: blue;
+  }
